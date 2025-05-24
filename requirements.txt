@@ -1,0 +1,19 @@
+# Core libraries
+flask==2.3.3
+python-dotenv==1.0.0
+gunicorn==21.2.0
+
+# LLM and embedding libraries
+groq==0.4.0
+sentence-transformers==2.2.2
+
+# Vector database
+qdrant-client==1.6.0
+
+# Agent framework libraries
+langgraph==0.0.20
+chainlit==1.0.0
+
+# Utility libraries
+numpy==1.25.2
+uuid==1.30
